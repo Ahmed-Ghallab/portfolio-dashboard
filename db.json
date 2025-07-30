@@ -1,0 +1,26 @@
+{
+  "assets": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "quantity": 10,
+      "buyPrice": 150,
+      "currentPrice": 180
+    },
+    {
+      "id": "2",
+      "name": "Tesla",
+      "quantity": 5,
+      "buyPrice": 700,
+      "currentPrice": 750
+    },
+    {
+      "id": "799e",
+      "name": "بيس",
+      "type": "Crypto",
+      "quantity": 11,
+      "buyPrice": 111,
+      "currentPrice": 1111
+    }
+  ]
+}
